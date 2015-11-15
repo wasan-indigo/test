@@ -121,7 +121,7 @@ public class ExerciseActivity extends AppCompatActivity {
 
                 }
 
-                if (intUserChoose[timeAnInt] == checkedId) {
+                if (intUserChoose[timeAnInt] == intRadio) {
                     scoreAnint += 1;
 
 
